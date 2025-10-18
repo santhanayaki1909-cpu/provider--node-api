@@ -1,0 +1,2 @@
+Id,Full_Name,Phone,Medical_License_Number,Specialty,Email,Practice_Address,Confidence_Score,Issue,Manual_Review
+250,Dr. Victoria Cooper,8415005790,VO822114,Dermatology,rchapman@example.net,"08626 Johnson Run, New Heather, ND 01686",30,"Phone mismatch, Specialty mismatch, License status: Unknown",Pending
