@@ -13,5 +13,13 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "sqlite3": "^5.1.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhanayaki1909-cpu/provider--node-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/santhanayaki1909-cpu/provider--node-api/issues"
+  },
+  "homepage": "https://github.com/santhanayaki1909-cpu/provider--node-api#readme"
 }
