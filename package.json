@@ -1,28 +1,16 @@
 {
-  "name": "provider-node-api",
+  "name": "provider-backend",
   "version": "1.0.0",
-  "description": "Provider backend API",
-  "main": "index.js",
+  "description": "Backend for Provider Variable Data project",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "engines": {
-    "node": "22.x"
+    "node": "18.x"
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "sqlite3": "^5.1.7"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/santhanayaki1909-cpu/provider--node-api.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/santhanayaki1909-cpu/provider--node-api/issues"
-  },
-  "homepage": "https://github.com/santhanayaki1909-cpu/provider--node-api#readme"
+    "express": "^4.21.2"
+  }
 }
